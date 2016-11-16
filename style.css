@@ -1,0 +1,29 @@
+
+.jumbotron{
+    background: url("images/fond1.jpg")no-repeat center center ; 
+    background-blend-mode: soft-light;
+    background-color: #131313;
+    text-align: center;
+	color: white;
+    height: 100vh;
+   
+    
+
+}
+#nav {
+
+    height:51px;
+    width: 100%;
+}
+#navbarCollapse a{
+    color: white;
+}
+
+#navbarCollapse a:hover{
+    background-color: blue;
+    color: white;
+}
+
+#navrigth .navbar-brand {
+  color: white;
+}
